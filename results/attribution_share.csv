@@ -1,0 +1,5 @@
+,last_click,first_click,linear,markov_removal,TRUTH_incremental
+search,0.27,0.314,0.342,0.281,0.556
+social,0.066,0.328,0.18,0.182,0.244
+email,0.09,0.278,0.193,0.199,0.176
+display,0.574,0.08,0.285,0.338,0.024
